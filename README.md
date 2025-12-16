@@ -2,11 +2,8 @@
 
 🚀 Data Scientist | ML | DL | NLP | LLM | GenAI 
 
-<p align="center">
-  <img src="banner.gif" width="100"/>
-</p>
 
-Electrical Engineering graduate with strong skills in Data Science, Machine Learning, Deep Learning, NLP, and Generative AI. Experienced in building end-to-end AI systems using Python, Scikit-learn, TensorFlow, and spaCy. Skilled in developing LLM-based solutions, automating workflows, and creating intelligent data analytics tools. Proficient in statistical analysis, SQL, and data visualization. Passionate about applying AI to solve real world problems.
+- Electrical Engineering graduate with strong skills in Data Science, Machine Learning, Deep Learning, NLP, and Generative AI. Experienced in building end-to-end AI systems using Python, Scikit-learn, TensorFlow, and spaCy. Skilled in developing LLM-based solutions, automating workflows, and creating intelligent data analytics tools. Proficient in statistical analysis, SQL, and data visualization. Passionate about applying AI to solve real world problems.
 
 ---
 
